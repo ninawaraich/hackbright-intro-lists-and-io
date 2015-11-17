@@ -25,7 +25,9 @@ Use the following list for the questions:
 ### What are three ways I could access the last element of the list?
 *(HINT: Look up the len method for Python lists.)*
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- my_list[-1]
+- my_list[4]
+- my_list[len(my_list)-1]
 
 ### How would I find the length of the list?
 
