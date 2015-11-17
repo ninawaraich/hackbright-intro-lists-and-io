@@ -43,7 +43,7 @@ my_list[1:3]  | 2, "kitten"
 my_list[1:6]  | 2, "kitten", 4, "five", 6
 my_list[1:10] | 2, “kitten”,  4, “five”, 6, 7
 my_list[-1]   | 7
-my_list[-1:-3]| 7,6
+my_list[-1:-3]| 
 my_list[-3:-1]| "five",6
 
 
