@@ -15,7 +15,7 @@ print nina_fav_foods, sara_fav_foods
 #else:
 	#print "Our favorite foods are different :("
 
-for x in [0,1,2]:
+for x in range(3):
 	if nina_fav_foods[x] in sara_fav_foods:
 		food=nina_fav_foods[x]
 		print "We both love", food
